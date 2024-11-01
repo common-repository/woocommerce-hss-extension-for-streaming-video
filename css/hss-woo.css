@@ -1,0 +1,32 @@
+
+.hss_woo_watching_video_text { text-align:center; }
+.hss_woo_watching_trailer_text { text-align:center; }
+
+.hss_woo_myaccount_videolist_header { 
+	font-size: 1.5em;
+	font-weight: 500;
+}
+
+.hss_woo_myaccount_video_header {
+        font-size: 1.5em;
+        font-weight: 500;
+	text-align:center;
+}
+
+.hss_woo_myaccount_videogroup_header {
+        font-size: 1.5em;
+        font-weight: 500;
+}
+.hss_woo_myaccount_back {
+	padding-top: 10px;
+}
+.fluid-width-video-wrapper {
+width: 100%;
+position: static !important;
+padding: 0;
+}
+
+.hss_video_player {
+transition: width 0.5s;
+margin:0px auto;
+}
